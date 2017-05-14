@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: red;
+    width: 1500px;
+    height: 1000px;
+}
+#zen-benefits {
+    height: 2000px;
+    width: 2000px;
+    top: 100px;
+    left: 500px
+}
+#zen-intro {
+    background-color: pink
+}
+#zen-summary {
+    background-color: chartreuse
+}
+#zen-preamble {
+    background-color: orangered
+}
+ #design-selection {
+     background-color: grey
+ }
+p {
+    color:blue;
+    display: block;
+    padding: 1cm 4cm 1cm 4cm;
+    margin: 2cm 4cm 3cm 4cm
+}
+h1 {
+    font-size: 20px;
+    color: green;
+    background-color: black;
+    text-align: center
+}
+h2 {
+    position: absolute;
+    left: 700px;
+    top: 50px;
+    color: yellow;
+    background-color: black
+}
+h3 {
+    font-size: 16px;
+    color: purple ;
+    background-color: black;
+    text-align: center
+}
+footer {
+    position: absolute;
+    background-color: black;
+    text-align: center;
+}
+li { display: inline }
